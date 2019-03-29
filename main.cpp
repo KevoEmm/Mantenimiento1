@@ -23,6 +23,7 @@ main()
 =======
 	cout<<"Allan";
 	cout<<"Yair Guerra";
+	cout<<"tadeo";
 >>>>>>> 40640fd821f5ff8110423d9ffcf512faf9610e4c
 >>>>>>> fc0911f96d21973d3f3a9e24546dd5e5a775495d
 	
