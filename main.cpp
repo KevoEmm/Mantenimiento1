@@ -18,6 +18,7 @@ main()
 	cout<<"Hola Neumaier";
 =======
 	cout<<"Allan";
+	cout<<"Yair Guerra";
 >>>>>>> 40640fd821f5ff8110423d9ffcf512faf9610e4c
 	
 >>>>>>> 0d180441bc88be52b410bb41d4d7a31e243e7efa
