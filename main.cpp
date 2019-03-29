@@ -6,6 +6,9 @@ main()
 	cout<<"Hola mundo";
 	cout<<"Hola Gerardo Tejeda";
 <<<<<<< HEAD
+	cout<<"Hola EduardoCS"
+=======
+<<<<<<< HEAD
 	cout<<"Efren estuvo aqui"
 =======
 	cout<<"Hol CESAR EDUARDO";
