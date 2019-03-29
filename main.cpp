@@ -6,6 +6,6 @@ main()
 	cout<<"Hola mundo";
 	cout<<"Hola Gerardo Tejeda";
 	cout<<"Hol CESAR EDUARDO";
-	cout<<"Hola Carlo Sch";
+	cout<<"Hola Carlos Sch";
 	
 }
