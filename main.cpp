@@ -10,6 +10,7 @@ main()
 	cout<<"Hola Roberto";
 =======
 	cout<<"Hola Carlos Sch";
+	cout<<"Allan";
 	
 >>>>>>> 0d180441bc88be52b410bb41d4d7a31e243e7efa
 }
