@@ -1,3 +1,4 @@
+//Itzel
 #include <iostream>
 using namespace std;
 main()
@@ -6,7 +7,11 @@ main()
 	cout<<"Hola mundo";
 	cout<<"Hola Gerardo Tejeda";
 <<<<<<< HEAD
+<<<<<<< HEAD
 	cout<<"Hola EduardoCS"
+=======
+	cout<<"Hola Itzel Andrea";
+>>>>>>> 3b670ae599c46afa8212d3db1b20c98fb976b6cf
 =======
 <<<<<<< HEAD
 	cout<<"Efren estuvo aqui"
@@ -26,14 +31,10 @@ main()
 =======
 	cout<<"Allan";
 	cout<<"Yair Guerra";
-	
-	cout<<"Abram Gonzalez";
-	cout<<"Hola Ermi";
-	
-	cout<<"Marcos Soto";
-	
+	cout<<"tadeo";
 >>>>>>> 40640fd821f5ff8110423d9ffcf512faf9610e4c
 >>>>>>> fc0911f96d21973d3f3a9e24546dd5e5a775495d
 	
 >>>>>>> 0d180441bc88be52b410bb41d4d7a31e243e7efa
+>>>>>>> fc0911f96d21973d3f3a9e24546dd5e5a775495d
 }
