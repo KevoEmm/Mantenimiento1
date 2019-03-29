@@ -2,7 +2,6 @@
 using namespace std;
 main()
 {
-//juan carlos estuvo aqui
     //Lalo estuvo aqui
 	cout<<"Hola mundo";
 	cout<<"Hola Gerardo Tejeda";
@@ -10,9 +9,6 @@ main()
 	cout<<"Efren estuvo aqui"
 =======
 	cout<<"Hol CESAR EDUARDO";
-<<<<<<< HEAD
-	cout<<"como estan Att juan carlos";
-=======
 <<<<<<< HEAD
 	cout<<"Hola Roberto";
 =======
@@ -31,9 +27,10 @@ main()
 	cout<<"Abram Gonzalez";
 	cout<<"Hola Ermi";
 	
+	cout<<"Marcos Soto";
+	
 >>>>>>> 40640fd821f5ff8110423d9ffcf512faf9610e4c
 >>>>>>> fc0911f96d21973d3f3a9e24546dd5e5a775495d
 	
 >>>>>>> 0d180441bc88be52b410bb41d4d7a31e243e7efa
->>>>>>> fc0911f96d21973d3f3a9e24546dd5e5a775495d
 }
